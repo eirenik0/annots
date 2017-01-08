@@ -1,0 +1,957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"UUID"
+			],
+			[
+				"ann",
+				"annot_mapper"
+			],
+			[
+				"soc",
+				"social_network_mapper"
+			],
+			[
+				"nam",
+				"namedtuple"
+			],
+			[
+				"dis",
+				"distributionhelper"
+			],
+			[
+				"att",
+				"attachement_factory"
+			],
+			[
+				"F",
+				"Factory"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"Fa",
+				"Faker"
+			],
+			[
+				"type",
+				"types"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"lo",
+				"login_url"
+			],
+			[
+				"T",
+				"Test"
+			],
+			[
+				"ini",
+				"inicializer"
+			],
+			[
+				"reci",
+				"recipient_factory"
+			],
+			[
+				"use",
+				"user_factory"
+			],
+			[
+				"Nam",
+				"NamedTupleMeta"
+			],
+			[
+				"d",
+				"domain"
+			],
+			[
+				"typ",
+				"type\tclass"
+			],
+			[
+				"ty",
+				"typing\tmodule"
+			],
+			[
+				"ro",
+				"role_factory\tparam"
+			],
+			[
+				"Ro",
+				"RoleFactory\tclass"
+			],
+			[
+				"role",
+				"role_factory\tparam"
+			],
+			[
+				"ra",
+				"random\tmodule"
+			],
+			[
+				"R",
+				"RoleFactory\tclass"
+			],
+			[
+				"tes",
+				"tests\tmodule"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"User",
+				"User\tclass"
+			],
+			[
+				"ne",
+				"networks"
+			],
+			[
+				"fr",
+				"from\tkeyword"
+			],
+			[
+				"S",
+				"SocialNetwok\tclass"
+			],
+			[
+				"log",
+				"login_postfix_url"
+			],
+			[
+				"w",
+				"worker\tmodule"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"in",
+				"instances_of\tfunction"
+			],
+			[
+				"va",
+				"validators\tmodule"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"blo",
+				"blown_video\tstatement"
+			],
+			[
+				"blown",
+				"blown_message\tparam"
+			],
+			[
+				"bl",
+				"blown_attachement\tfunction"
+			],
+			[
+				"blow",
+				"blown_message\tfunction"
+			],
+			[
+				"fi",
+				"fixture"
+			],
+			[
+				"p",
+				"pytest\tmodule"
+			],
+			[
+				"M",
+				"Message"
+			],
+			[
+				"as",
+				"asdict\tfunction"
+			],
+			[
+				"user",
+				"user_factory\tfunction"
+			],
+			[
+				"valida",
+				"validators"
+			],
+			[
+				"u",
+				"username\tfunction"
+			],
+			[
+				"Personal",
+				"Personal\tclass"
+			],
+			[
+				"convert",
+				"convert\tparam"
+			],
+			[
+				"instance",
+				"instance_of\tfunction"
+			],
+			[
+				"valid",
+				"validate\tfunction"
+			],
+			[
+				"Value",
+				"ValueError\tclass"
+			],
+			[
+				"isin",
+				"isinstance\tfunction"
+			],
+			[
+				"validt",
+				"validator\tparam"
+			],
+			[
+				"domain",
+				"domain\tmodule"
+			],
+			[
+				"system",
+				"system\tmodule"
+			],
+			[
+				"sett",
+				"setattr\tfunction"
+			],
+			[
+				"cam",
+				"campaign_percent\tstatement"
+			],
+			[
+				"ca",
+				"campaign\tstatement"
+			],
+			[
+				"pr",
+				"property\tclass"
+			],
+			[
+				"seg",
+				"segmentio_helpers\tmodule"
+			],
+			[
+				"Segme",
+				"SegmentProperties\tclass"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"po",
+				"post_save\tinstance"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "au",
+		"selected_items":
+		[
+			[
+				"au",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"magicp",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"snippet new",
+				"Snippet: New Class"
+			],
+			[
+				"snippet in",
+				"Snippet: init"
+			],
+			[
+				"se py",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax  pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"set sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"aut",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"la",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"gitgign",
+				"Gitignore: New gitignore"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Matrix"
+			],
+			[
+				"latex c",
+				"Snippet: Wrap selection in LaTeX command"
+			],
+			[
+				"vie",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"vi",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"rest",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"restr",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"nsta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"set cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/infernion/Projects/annots"
+	],
+	"file_history":
+	[
+		"/home/infernion/Projects/distribution_helper/distributionhelper/shared/domain_model.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/domain/__init__.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/domain/social_networks.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/shared/__init__.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/core/exception.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/.gitignore",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/tests/web/__init__.py",
+		"/home/infernion/Projects/distribution_helper/MANIFEST.in",
+		"/home/infernion/Projects/distribution_helper/README.rst",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/domain/entity.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/shared/utils.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/conf/base.ini",
+		"/home/infernion/Projects/distribution_helper/setup.cfg",
+		"/home/infernion/Projects/distribution_helper/distribution_helper.sublime-project",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/conf/production.ini",
+		"/home/infernion/Projects/distribution_helper/system/domain/message.py",
+		"/home/infernion/Projects/distribution_helper/.gitignore",
+		"/home/infernion/Projects/distribution_helper/setup.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper.egg-info/entry_points.txt",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/__init__.py",
+		"/home/infernion/Projects/distribution_helper/alembic/versions/e2a10c05a68a_initial_migration.py",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/conf/development.ini",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/conf/staging.ini",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/conf/test.ini",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/templates/email/header.html",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/templates/site/css.html",
+		"/home/infernion/Projects/distribution_helper/distributionhelper/templates/site/logo.html",
+		"/home/infernion/Projects/distribution_helper/distributionhelper.egg-info/PKG-INFO",
+		"/home/infernion/Projects/distribution_helper/tox.ini",
+		"/home/infernion/Projects/distribution_helper/alembic/env.py",
+		"/home/infernion/Projects/distribution_helper/disctributionhelper/__init__.py",
+		"/home/infernion/Projects/distribution_helper/disctributionhelper/views.py",
+		"/home/infernion/Projects/distribution_helper/system/main.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_acl.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/campaign.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_user.py",
+		"/home/infernion/Projects/distribution_helper/tests/usercases/test_campaign_create.py",
+		"/home/infernion/Projects/distribution_helper/system/usecases.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/worker.py",
+		"/home/infernion/Projects/distribution_helper/system/usecase/__init__.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/types.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_worker.py",
+		"/home/infernion/Projects/distribution_helper/tests/factories/domain.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/__init__.py",
+		"/home/infernion/Projects/distribution_helper/system/shared/domain_model.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_account.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_campaign.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_message.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_recipient.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_social_network.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/social_network.py",
+		"/home/infernion/Projects/distribution_helper/system/domain.py",
+		"/home/infernion/Projects/distribution_helper/tests/factories/domain/social_network_factory.py",
+		"/home/infernion/Projects/distribution_helper/tests/factories/domain/__init__.py",
+		"/home/infernion/Projects/distribution_helper/tests/factories/domain/account_factory.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/account.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/constants.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/recipient.py",
+		"/home/infernion/Projects/distribution_helper/tests/conftest.py",
+		"/home/infernion/Projects/distribution_helper/requirements.txt",
+		"/home/infernion/Projects/distribution_helper/system/domain/user.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/acl.py",
+		"/home/infernion/Projects/distribution_helper/tests/factories/__init__.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/fixtures.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/factory/declarations.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/social_networks.py",
+		"/home/infernion/Projects/distribution_helper/.python-version",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/factory/base.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/factories.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/elizabeth/__init__.py",
+		"/home/infernion/Projects/distribution_helper/system/shared/validators.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/attr/_make.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/test_people.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/elizabeth/core/elizabeth.py",
+		"/home/infernion/.config/sublime-text-3/Packages/DictionaryAutoComplete/DictionaryAutoComplete.sublime-settings",
+		"/home/infernion/Projects/distribution_helper/tests/__init__.py",
+		"/home/infernion/Projects/distribution_helper/tests/fixtures.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/people.py",
+		"/home/infernion/Projects/distribution_helper/system/domain/constatnts.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/attr/validators.py",
+		"/home/infernion/Projects/distribution_helper/tests/domain/__init__.py",
+		"/home/infernion/Projects/distribution_helper/system/shared/__init__.py",
+		"/home/infernion/Projects/distribution_helper/system/__init__.py",
+		"/home/infernion/.pyenv/versions/distribution_helper/lib/python3.5/site-packages/attr.py",
+		"/home/infernion/Projects/distribution_helper/system/tests",
+		"/home/infernion/Projects/distribution_helper/docs/main.tex",
+		"/home/infernion/Projects/distribution_helper/docs/distribution_helper_docs.sublime-project",
+		"/home/infernion/Projects/distribution_helper/docs/part1.tex",
+		"/home/infernion/Projects/distribution_helper/docs/appendix.tex",
+		"/home/infernion/Projects/distribution_helper/docs/biblio.bib",
+		"/home/infernion/Projects/distribution_helper/docs/names.tex",
+		"/home/infernion/Projects/distribution_helper/diploma_specialist.sublime-project",
+		"/home/infernion/Projects/distribution_helper/docs/diploma_specialist.sublime-project",
+		"/home/infernion/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/infernion/Dropbox/XAI/Diploma_specialist/TeX/styles.tex",
+		"/home/infernion/Dropbox/Mackup/.zsh_history",
+		"/home/infernion/mozilla.pdf",
+		"/home/infernion/\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001bOB\u001b\u001b",
+		"/home/infernion/Dropbox/XAI/Diploma_specialist/TeX/introduction.tex",
+		"/home/infernion/Dropbox/XAI/Diploma_specialist/TeX/diploma_specialist.sublime-project",
+		"/home/infernion/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/infernion/Dropbox/XAI/Diploma_specialist/TeX/diploma.pdf",
+		"/home/infernion/Dropbox/паролі.txt",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/tasks.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/funding/tasks.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/dashboard/views/campaign_views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/models.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/application/admin.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/admin.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/application/models.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/application/api.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/shared/utils/segmentio_helpers/__init__.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/presentation/templates/presentation_v2/base-campaign.html",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/templates/funding/done_simple.html",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/shared/utils/segmentio_helpers/events.py",
+		"/home/infernion/.config/sublime-text-3/Packages/sublime-rst-completion/sublime-rst-completion.sublime-settings",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/definitions.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/temperature/models.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/application/view_mixins.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/campaign/tests/factories.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/funding/models.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/hhpresentation/views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/meta/views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/presentation/views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/profiles/pipeline.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/register/views.py",
+		"/home/infernion/Projects/fundedbyme/fundedbyme/reward/views.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 171.0,
+		"where_history":
+		[
+			"",
+			"-locale/, *.py",
+			"-locale/, *.html, *.js",
+			"-locale/, *.html",
+			"-locale/, *.py",
+			"-locale/, *.oy",
+			"-locale/, -*.js",
+			"-locale/, ",
+			"-locale/",
+			"-locals/",
+			"-*.po",
+			"",
+			"*.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NamedTuple",
+			"main =",
+			"distributionhelper.Initializer",
+			"domain",
+			"consta",
+			"Type[",
+			"user_data",
+			"disctributionhelper",
+			"DomainModel",
+			"user_factory",
+			"Attachement",
+			"frozen",
+			"tp.List",
+			"factory.",
+			"factory",
+			"FactoryMetaClass",
+			"Rfrom",
+			"Roles",
+			"blown_recipient",
+			"account",
+			"incomplete_recipient",
+			"r.",
+			".addressee",
+			"addressee",
+			"Addressee",
+			"people",
+			"People",
+			"url",
+			"address",
+			"url",
+			"identi",
+			"uid",
+			"uuid",
+			"\n        ",
+			"15",
+			"sequence",
+			"is_exists_in",
+			"hepler»",
+			"отст",
+			"campaign_reach_target",
+			"campaign_live_private_event",
+			"CampaignClosed",
+			"CampaignGoesLive",
+			"Campaign",
+			"Golive",
+			"campaign_go_live_schedule",
+			"live",
+			"CampaignClosed",
+			"PeriodicTask",
+			"CreatePayoutLoanBasedCampaigns",
+			"CreatePayout",
+			"cron",
+			"count",
+			"crontab",
+			"celery",
+			"decline",
+			"campaign_submit_event",
+			"campaign_reach_target_event",
+			"application_submit_event",
+			"events",
+			"CreateApplicationView",
+			"investment",
+			"name",
+			"analytics.track",
+			"analitycs.track",
+			"invested",
+			"inveted",
+			"Segment",
+			"Confirm",
+			"InvestBasicView",
+			"InvestBasicView.form_valid",
+			"identify_dict",
+			"campaign",
+			"CampaignSegmentEventsManager",
+			"property",
+			"Enum",
+			"user",
+			", ",
+			"submit_event",
+			"CampaignEditSubmitView",
+			"from fundedbyme.shared.utils.segment_tracking",
+			"segment_tracking",
+			"CampaignEditSubmitView",
+			"SegmentEvents.",
+			"Segment",
+			"campaign.event",
+			"Segment",
+			"Campaign",
+			"Manager",
+			"target_percents",
+			"SegmentEvents",
+			"segment",
+			"event",
+			"segmant",
+			"Segment",
+			"objects = ",
+			"logger",
+			"Invest",
+			"funded_percent",
+			"ManyToManyField",
+			"django-mock",
+			"was_success",
+			"messages.",
+			"from django.contrib import messages",
+			"messages",
+			"include \"components/messages.html",
+			"update_campaign_temperature",
+			"@receiver",
+			"success",
+			"live",
+			"Campaign Live",
+			"ForEntrepreneursView",
+			"for-entrepreneurs",
+			"live",
+			"__",
+			"SegmentEvents.register",
+			"egmentEvents.register",
+			"Register"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DomainModel",
+			"distributionhelper.web.Initializer",
+			"distributionhelper",
+			"NamedTuple",
+			"blown_user",
+			"blown_account",
+			"blown_recipient",
+			"recipient.",
+			".recipient",
+			"recipient",
+			"Recipient",
+			"addressee",
+			"Addressee",
+			"seq",
+			"exists_in",
+			"campaign_submitted_event",
+			"application_submitted_event",
+			"self.campaign",
+			"CampaignSegmentEventsHandler",
+			"from fundedbyme.shared.utils.segmentio_helpers"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "",
+	"project": "annots.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"int",
+				"introduction.tex"
+			],
+			[
+				"fundedbyme/dashboard/views/campaign_views.py",
+				"fundedbyme/dashboard/views/campaign_views.py"
+			],
+			[
+				"fundedbyme/campaign/views.py",
+				"fundedbyme/campaign/views.py"
+			],
+			[
+				"fundedbyme/templates/dashboard/campaign/manage/funding/base.htm",
+				"fundedbyme/templates/dashboard/campaign/manage/funding/base.html"
+			],
+			[
+				"components/messages.html",
+				"fundedbyme/templates/components/messages.html"
+			],
+			[
+				"sege",
+				"fundedbyme/shared/utils/segment_tracking.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

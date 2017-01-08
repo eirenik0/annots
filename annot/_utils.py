@@ -5,14 +5,18 @@ def _annotations_to_script(annotations, post_init):
     """
     Return a script of an initializer for *annotations*.
     """
-    def fmt_setter(attr_name, type):
-        return f"self.{attr_name!s} = {type.__name__!s}"
+    def fmt_setter(attr_name):
+        # TODO: need to asign into another way, not ir works only with build in types
+        return f"self.{attr_name!s} = {attr_name!s}"
+
+    def fmt_args(attr_name, type):
+        return f"{attr_name!s}: {type.__name__!s}"
 
     args, lines = [], []
 
     for attr_name, attr_type in annotations.items():
-        args.append(attr_name)
-        lines.append(fmt_setter(attr_name, attr_type))
+        args.append(fmt_args(attr_name, attr_type))
+        lines.append(fmt_setter(attr_name))
 
     if post_init:
         lines.append("self.__annots_post_init__()")

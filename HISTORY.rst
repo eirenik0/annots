@@ -2,6 +2,12 @@
 History
 =======
 
+0.1.2 (2017-01-09)
+
+* Fix value initialization error
+* Add type annotation for args into ``__init__`` function
+* Update test
+
 0.1.1 (2017-01-08)
 ------------------
 

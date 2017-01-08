@@ -20,7 +20,7 @@ class TestUtils(unittest.TestCase):
     # TODO: add more tests
     def setUp(self):
         self.init_pattern = """\
-def __init__(self, username, password):
+def __init__(self, username: str, password: str):
     self.username = username
     self.password = password
 """
@@ -29,10 +29,10 @@ def __init__(self, username, password):
     def test__annotations_to_script(self):
         init_string = _annotations_to_script(self.annotations, post_init=False)
 
-        assert not self.init_pattern == init_string
+        self.assertEquals(self.init_pattern, init_string)
 
     def test__annotation_to_script_with_additional_call(self):
         self.init_pattern += '    self.__annots_post_init__()\n'
         init_string = _annotations_to_script(self.annotations, post_init=True)
 
-        assert not self.init_pattern == init_string
+        self.assertEquals(self.init_pattern, init_string)

@@ -26,15 +26,15 @@ setup(
     author_email='sergiykhalimon@gmail.com',
     url='https://github.com/infernion/annots',
     packages=[
-        'annots',
+        'annot',
     ],
-    package_dir={'annots':
-                 'annots'},
+    package_dir={'annot':
+                 'annot'},
     include_package_data=True,
     install_requires=requirements,
     license="MIT license",
     zip_safe=False,
-    keywords='annots',
+    keywords='annots annotations typing',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',

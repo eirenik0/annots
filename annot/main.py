@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from annots._utils import _annotations_to_init
+from annot._utils import _annotations_to_init
 
 
 def annots(cls):

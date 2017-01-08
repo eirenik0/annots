@@ -23,12 +23,15 @@ Annots
 
 When you wrap a class with ``annots`` decorator ::
 
-        @annots
+        import annot
+
+        @annot.s
         class Account:
-            some_common_var = 'account'
+            __tablename__ = 'account'
 
             username: str
             password: str
+
 
 Annots add class attribute annotations into ``__init__`` ::
 

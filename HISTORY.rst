@@ -6,3 +6,4 @@ History
 ------------------
 
 * First release on PyPI.
+* Working version with basic annotation support

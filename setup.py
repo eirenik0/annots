@@ -19,7 +19,7 @@ test_requirements = [
 
 setup(
     name='annots',
-    version='version='version='0.1.0''',
+    version='0.1.0',
     description="annots is the package that allow to use Python 3.6 variable annotations in handy way.",
     long_description=readme + '\n\n' + history,
     author="Sergey Khalymon",

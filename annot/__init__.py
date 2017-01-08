@@ -4,7 +4,7 @@ from annot.main import annots
 
 __author__ = """Sergey Khalymon"""
 __email__ = 'sergiykhalimon@gmail.com'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 s = annots
 

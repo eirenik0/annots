@@ -19,9 +19,9 @@ def annots(cls):
     Become to ::
 
         class Account:
-            def __init__(self, username, password):
-                self.username = str
-                self.password = str
+            def __init__(self, username: str, password: str):
+                self.username = username
+                self.password = password
 
     """
     new_init = _annotations_to_init(cls)

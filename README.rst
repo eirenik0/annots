@@ -36,9 +36,9 @@ When you wrap a class with ``annots`` decorator ::
 Annots add class attribute annotations into ``__init__`` ::
 
         class Account:
-            def __init__(self, username, password):
-                self.username = str
-                self.password = str
+            def __init__(self, username: str, password: str):
+                self.username = username
+                self.password = password
 
 
 * Free software: MIT license
